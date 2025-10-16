@@ -1,4 +1,4 @@
-# TSMLA™: Phases 3–4 Expansion: Fractal Probability Rendering™ & Timeline Evolution™
+# TSMLA™: Phases 3 & 4 Expansion: Fractal Probability Rendering™ & Timeline Evolution™
 
 > **Repository Context:** Fractal Labyrinth Systems: Core Architecture / Resonance Physics Stack  
 > **Associated Patent:** Provisional Supplemental Filing: Recursive Probability & Timeline Collapse Extensions  
@@ -7,7 +7,7 @@
 ---
 
 ## Abstract
-This repository documents the **Phase 3–4 temporal expansion layer** of the Tag-Weighted Self-Mirroring Logic Architecture (TSMLA™).  
+This repository documents the **Phase 3 & 4 temporal expansion layer** of the Tag-Weighted Self-Mirroring Logic Architecture (TSMLA™).  
 It summarizes the mathematical and resonance-based framework underlying **Fractal Probability Rendering™ (FPR)** and **Timeline Evolution™ (TLE)**: extensions that evolve the system from static recursion into dynamic field coherence analysis.  
 This material corresponds to the internal filings *“Phase 3 Developer Handoff Packet v1.0”* and *“FPR System Integration Framework”*, serving as the **public architectural synopsis** of those provisional submissions.
 
@@ -79,7 +79,7 @@ An evolution map visualizing:
 
 ---
 
-## What Phases 3–4 Are NOT
+## What Phases 3 & 4 Are NOT
 - **Not predictive AI:** no external training or pattern matching  
 - **Not simulation:** no stochastic sampling or Monte Carlo methods  
 - **Not prescriptive:** system reveals structure; human decides action  
